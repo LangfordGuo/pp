@@ -1,0 +1,20 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskName": "任务-playlist",
+      "appliesTo": "playlist/playlist.py",
+      "type": "launch"
+    },
+    {
+      "taskName": "任务-playlist",
+      "appliesTo": "playlist/playlist.py",
+      "type": "launch"
+    },
+    {
+      "taskName": "任务-playlist",
+      "appliesTo": "playlist/playlist.py",
+      "type": "launch"
+    }
+  ]
+}
